@@ -1,39 +1,31 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: About Me
 ---
 
-*UPDATE2*
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+My name is Tsvetan Zhivkov. I am a postdoctoral researcher with Lincoln Agri-Robotics ([LAR](https://lar.lincoln.ac.uk/)) at the University of Lincoln (UoL). My staff directory [page](https://staff.lincoln.ac.uk/70477d8f-a7ae-49fe-a751-01c338eac1ba). I started this position immediately after my PhD defense in May 2020.
 
-### Built on Poole
+My postdoctoral role is exclusively on research and development of agricultural-robotics. I am working on communication issues in agricultural-robotics along other exciting projects. I was lucky enough to acquire a certified commercial drone pilot license to help other projects, by gathering images for spatial and temporal crop growth, field mapping and analysis for crop care, etc.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+### Postgraduate
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+I received my PhD degree from King’s College London on October 2020.  I was part of the Interaction Lab group. The group did research on a wide variety of topics (e.g. human-robot interaction, task allocation mechanisms, multi-robot communication and swarm robotics). My supervisor was Professor [Elizabeth Sklar](https://nms.kcl.ac.uk/elizabeth.sklar/), she is a great mentor and scholar!
 
-### Lanyon features
+My PhD research focused on multi-robot system design and communication. I investigated how network quality can affect both explicit and implicit communication. More often in multi-robot domains, communication is imperative and in some operational environments it’s not possible to maintain/deploy network infrastructure. In these cases, robots with even minimal network capabilities can dynamically create an ad-hoc network infrastructure to continue communicating and performing tasks regardless of what happens to the remote (server/operator). My research looked at multi-robot communication and message-passing as a mission critical component. Creating redundancy of “critical” information on a local and global scale. Therefore even if a single robot communicates with the remote operator, complete knowledge of the mission is established.
 
-In addition to the features of Poole, Lanyon adds the following:
 
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
+### Undergraduate
 
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
+I received my MEng in Computer Science and Electronic Engineering from the University of Liverpool. In my final year at the university, I was part of a group project titled “_Robot Object Search and Retrieval Team_”. I was tasked with designing a human-computer interaction (HCI) user interface that would receive messages from a python server and translate them on screen to something meaningful. This allowed users to understand and interact with a robot team that was performing pre-given tasks.
+
+In the summer between my third and fourth year I worked for the university as a vocational worker/researcher developing an iOS application. I was tasked with creating an intuitive text and image recording app, which would store data locally on its user and allow the data to be offloaded later to a server. The app was used in a multi-agency emergency response exercise ([JESIP](https://news.liverpool.ac.uk/2014/09/19/multi-agency-emergency-response-exercise-evaluated-by-university/)) in accordance with data protection acts (of that time) and with complete knowledge and acceptance of the end user.
+
+To learn more about me please click/tap the **☰** link in top left corner!
 
 ### Browser support
 
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+Please note that this website is built using Lanyon, which supports all major browsers but it is only compatible with Internet Explorer 9 and above!
 
 ### Download
 
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+Lanyon is developed on and hosted with GitHub. Head to <a href="https://github.com/poole/lanyon">GitHub repository</a> for more information.
