@@ -19,13 +19,3 @@ My PhD research focused on multi-robot system design and communication. I invest
 I received my MEng in Computer Science and Electronic Engineering from the University of Liverpool. In my final year at the university, I was part of a group project titled “_Robot Object Search and Retrieval Team_”. I was tasked with designing a human-computer interaction (HCI) user interface that would receive messages from a python server and translate them on screen to something meaningful. This allowed users to understand and interact with a robot team that was performing pre-given tasks.
 
 In the summer between my third and fourth year I worked for the university as a vocational worker/researcher developing an iOS application. I was tasked with creating an intuitive text and image recording app, which would store data locally on its user and allow the data to be offloaded later to a server. The app was used in a multi-agency emergency response exercise ([JESIP](https://news.liverpool.ac.uk/2014/09/19/multi-agency-emergency-response-exercise-evaluated-by-university/)) in accordance with data protection acts (of that time) and with complete knowledge and acceptance of the end user.
-
-To learn more about me please click/tap the **☰** link in top left corner!
-
-### Browser support
-
-Please note that this website is built using Lanyon, which supports all major browsers but it is only compatible with Internet Explorer 9 and above!
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to <a href="https://github.com/poole/lanyon">GitHub repository</a> for more information.
