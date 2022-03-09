@@ -10,3 +10,13 @@ My [Google scholar](https://scholar.google.com/citations?hl=en&user=cQUvwYQAAAAJ
 * “[_MRComm: Multi-Robot Communication Testbed_](https://link.springer.com/chapter/10.1007/978-3-030-25332-5_30)”, T. Zhivkov, E. Schneider, E. I. Sklar - Annual Conference, 20th Towards Autonomous Robotic Systems (TAROS), 2019
 * “[_Establishing Continuous Communication through Dynamic Team Behaviour Switching_](https://www.ukras.org.uk/wp-content/uploads/2019/03/UKRAS19-Proceedings-Final.pdf)”, T. Zhivkov, E. Schneider, E. I. Sklar - UK-RAS19, Conference, 2019
 * “[_Measuring the Effects of Communication Quality on Multi-robot Team Performance_](https://link.springer.com/chapter/10.1007/978-3-319-64107-2_32)”, T. Zhivkov, E. Schneider, E. I. Sklar - TAROS18, Conference, 2017
+
+To learn more about me please click/tap the **☰** link in top left corner!
+
+### Browser support
+
+Please note that this website is built using Lanyon, which supports all major browsers but it is only compatible with Internet Explorer 9 and above!
+
+### Download
+
+Lanyon is developed on and hosted with GitHub. Head to <a href="https://github.com/poole/lanyon">GitHub repository</a> for more information.
