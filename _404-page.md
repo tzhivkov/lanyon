@@ -1,1 +1,8 @@
-hello world!
+---
+layout: default
+title: "404: Page not found"
+permalink: 404.html
+---
+
+# 404: Page not found
+Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. [Head back home]({{ site.url }}) to try finding it again.
