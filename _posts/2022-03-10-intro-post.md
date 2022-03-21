@@ -3,6 +3,8 @@ layout: post
 title: About Me
 ---
 
+![](images/about/about-me-re.jpg)
+
 My name is Tsvetan Zhivkov. I am a postdoctoral researcher with Lincoln Agri-Robotics ([LAR](https://lar.lincoln.ac.uk/)) at the University of Lincoln (UoL). My staff directory [page](https://staff.lincoln.ac.uk/70477d8f-a7ae-49fe-a751-01c338eac1ba). I started this position immediately after my PhD defense in May 2020.
 
 My postdoctoral role is exclusively on research and development of agricultural-robotics. I am working on communication issues in agricultural-robotics along other exciting projects. I was lucky enough to acquire a certified commercial drone pilot license to help other projects, by gathering images for spatial and temporal crop growth, field mapping and analysis for crop care, etc.
